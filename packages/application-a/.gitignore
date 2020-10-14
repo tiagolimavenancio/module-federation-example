@@ -1,0 +1,41 @@
+#Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+debug.log
+
+#Coverage
+*.lcov
+coverage/
+
+#Compiled
+build/
+dist/
+tmp/
+
+#Dependencies
+node_modules/
+bower_components/
+jspm_packages/
+
+#npm cache
+.npm
+
+#IDEs and editors
+.vs/
+.idea/
+.vscode/
+$tf
+
+#System Files
+.DS_*
+.DS_Store/
+
+#Others
+sonar-project.properties
+**/*.backup.*
+**/*.back.*
+.scannerwork/
+
